@@ -28,12 +28,12 @@ img {
 .value{
   font-size: 40px;
   margin: auto;
-  font-weight: 600;
-  color: #142461;
+  font-weight: 500;
+  color: #0050ac;
 }
 .label{
   margin: auto;
-  color: #458265;
+  color: #fbff00;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 300;
 }
